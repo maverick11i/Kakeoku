@@ -1,6 +1,4 @@
-# Laravel Dockerfile
-
-## Laravel9 用
+# Kakeoku Dockerfile
 
 ## 導入手順
 
